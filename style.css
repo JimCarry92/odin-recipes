@@ -1,0 +1,14 @@
+h1
+{
+    text-align: left;
+    background-color:red;
+    color: white;
+    padding: 8px;
+}
+
+ul
+{
+    background-color: navajowhite;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
